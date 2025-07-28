@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Editor settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
